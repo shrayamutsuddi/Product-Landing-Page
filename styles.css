@@ -1,0 +1,61 @@
+body{
+  font-family: "Montserrat";
+}
+#features{
+  background-color: #FFEA20;
+}
+h1{
+  font-size: 70px;
+  text-align: center;
+  margin-left: 25px;
+}
+p{
+  font-family: "Nunito";
+  font-size: 25px;
+}
+.container-fluid{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.fbody{
+  margin-left: 8rem;
+  margin-right: 20rem;
+}
+.image1{
+  margin-right: 70px;
+}
+.download-button{
+  margin-bottom: 5rem;
+}
+#testimonials{
+  background-color: #8DCBE6;
+}
+.heading2 h1{
+  text-align: center;
+}
+.body2 p{
+  text-align: left;
+  font-size: 20px;
+  padding: 25px;
+  margin-left: 30px;
+}
+.container-fluid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.testimonials .features-item .content .h5{
+  font-size: 20px;
+}
+.testimonials .features-item .content .p{
+  font-size: 26px;
+}
+.testimonials .features-item{
+  border-radius: 10px;
+}
